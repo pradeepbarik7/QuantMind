@@ -1,0 +1,6 @@
+{
+  "name": "High Speed Systematic Execution Framework For Behavioural Bias Mitigation",
+  "description": "AI-based systematic quantitative trading analysis and decision-support platform designed to mitigate emotional biases (fear, greed, panic) using HMM regime detection, XGBoost prediction, and news sentiment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
